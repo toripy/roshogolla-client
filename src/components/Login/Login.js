@@ -25,7 +25,7 @@ const Login = () => {
 
 
     return (
-        <div style={{ display: "flex", justifyContent: "center", marginTop: '30%' }}>
+        <div style={{ display: "flex", justifyContent: "center", marginTop: '300px' }}>
             <GoogleButton
                 onClick={googleSignIn}
             />

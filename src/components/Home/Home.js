@@ -8,7 +8,7 @@ const useStyles = makeStyles( ( theme ) => ( {
     root: {
         display: 'flex',
         justifyContent: 'center',
-        alignItems: 'center'
+        marginTop:"50px"
     },
 } ) );
 
